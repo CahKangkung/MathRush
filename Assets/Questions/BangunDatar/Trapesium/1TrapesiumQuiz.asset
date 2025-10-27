@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ba8f4577e5fcb94a8e0f194bc9d635a, type: 3}
+  m_Name: 1TrapesiumQuiz
+  m_EditorClassIdentifier: 
+  questionText: "Jika luas trapesium adalah 72 cm\xB2, dan sisi sejajarnya 8 cm dan
+    10 cm, serta tinggi tidak diketahui, berapa tinggi trapesium tersebut?"
+  answers:
+  - 40 cm
+  - 27 cm
+  - 8 cm
+  answerIndex: 2
+  shapeIndex: 7

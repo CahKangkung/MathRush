@@ -1,0 +1,296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/MainMenu.unity
+    guid: 37d98f54230745d459ef180246add05e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/GameMode.unity
+    guid: 9a3de2d6b2779d74eb105835317b357c
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Game2Mode.unity
+    guid: e2770c1efc23f3f458dd52d3cd4bfed9
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/ResetMenu.unity
+    guid: d100b8690ba465548b9ee7d2e0e9c6d6
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/HelpMenu.unity
+    guid: 629377039fa4c12429e642c674b99deb
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/OpsiMateri.unity
+    guid: 5460768479d7a244b8cb33b2ea3928ca
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunDatar.unity
+    guid: cf234e594067aaa4b8a49cc6c521c769
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang.unity
+    guid: 2122b355f455a6742b23997d354812ab
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Persegi/OpsiPersegi.unity
+    guid: e783d0ddddeb23440925ed3c44648599
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Persegi/Persegi.unity
+    guid: c9e93c47400b0fe47b0435166b4f3ac2
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Persegi/ContohPersegi.unity
+    guid: da019b6c640c5ec4297e671b1e3d0f49
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Persegi/SoalPersegi1.unity
+    guid: 725266772bd818047a1cc90e57e7e4ba
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Persegi/SoalPersegi2.unity
+    guid: 6d3327ad4eb29df4cb97b1afbd6b2e6e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Segitiga/OpsiSegitiga.unity
+    guid: eb5f60b410bf99043bb8831ef5c526b8
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Segitiga/Segitiga.unity
+    guid: 905ed400a74e62444b7a1f3c9846c4a8
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Segitiga/ContohSegitiga.unity
+    guid: 6a54975d7c8b6494e8671cae42c78593
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Segitiga/SoalSegitiga1.unity
+    guid: 98b3044ac3c14eb4684092f8e9605139
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Segitiga/SoalSegitiga2.unity
+    guid: d17169b378134ff42acc38c0c9cd1ff3
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Lingkaran/OpsiLingkaran.unity
+    guid: 27141928abd7b194a8a6896eef25e8b3
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Lingkaran/Lingkaran.unity
+    guid: e77fe9e9b2950a34ea92c006d9b5be06
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Lingkaran/ContohLingkaran.unity
+    guid: 6a38264f1aa7d094c8913790370d8e64
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Lingkaran/SoalLingkaran1.unity
+    guid: 568b868aae4ea624f810f769ed6bb5d2
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Lingkaran/SoalLingkaran2.unity
+    guid: 374994b53b35d02478ce519d15d17efe
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Trapesium/OpsiTrapesium.unity
+    guid: 701314d502216344ba982ea8e4cecc22
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Trapesium/Trapesium.unity
+    guid: c3c46f9150d5ea247a307ac2829b3ea6
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Trapesium/ContohTrapesium.unity
+    guid: 05a734eecf8c462439332e8f1dcafc06
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Trapesium/SoalTrapesium1.unity
+    guid: 009963b5d42d78c4987dfdb400f34834
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/Trapesium/SoalTrapesium2.unity
+    guid: f232425784857d445b315e6d84a4c707
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/PersegiPanjang/OpsiPersegiPanjang.unity
+    guid: 82a55acb88de90445b415dbf9761e3b4
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/PersegiPanjang/PersegiPanjang.unity
+    guid: 7f2f710b1ea493a489bc80c3aea54998
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/PersegiPanjang/ContohPersegiPanjang.unity
+    guid: 54d1bddf416b6894bb29ae0d180544f6
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/PersegiPanjang/SoalPanjangPersegi1.unity
+    guid: 4afadc8b873a2db48b7660785b604611
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/PersegiPanjang/SoalPanjangPersegi2.unity
+    guid: 012b1dd02897fac45b665028f2c43c79
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/JajarGenjang/OpsiJajarGenjang.unity
+    guid: 617df04392f2e1549b7348726b975801
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/JajarGenjang/JajarGenjang.unity
+    guid: 91957c2a047d44b4aa64be4a1dc1c012
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/JajarGenjang/ContohJajarGenjang.unity
+    guid: 3eefa7d2b430c4a4895a923f214d587e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/JajarGenjang/SoalJajarGenjang1.unity
+    guid: 3095607323a11cb4e9e63ea9f0568ec9
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/JajarGenjang/SoalJajarGenjang2.unity
+    guid: 9e4a26aa43eabd642bea81b89e9d303c
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BelahKetupat/OpsiBelahKetupat.unity
+    guid: 849128b4ddc66ab4588850a7a209951f
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BelahKetupat/BelahKetupat.unity
+    guid: a47c9a0b11f26364d96cababa4a54ece
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BelahKetupat/ContohBelahKetupat.unity
+    guid: 08bc98b35d0b2574f94bb723de5169d5
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BelahKetupat/SoalBelahKetupat1.unity
+    guid: 2737da3b039b95349909509a60d35f78
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BelahKetupat/SoalBelahKetupat2.unity
+    guid: 43871ee9d1a0a5e40a471531385f8024
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/LayangLayang/OpsiLayangLayang.unity
+    guid: e6ad037f0c2eeec459d02126768a8eac
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/LayangLayang/LayangLayang.unity
+    guid: c9cd707b8e219d647aa9c6cc4437411a
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/LayangLayang/ContohLayangLayang.unity
+    guid: a93fd9c389b7c5b419dd648b26337f92
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/LayangLayang/SoalLayangLayang1.unity
+    guid: 8d662d2bf1c5b81459fa63ff351e436a
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/LayangLayang/SoalLayangLayang2.unity
+    guid: aea263d1c8bc7c04fa3a8ac3d4854aaf
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kubus/OpsiKubus.unity
+    guid: 794b7f1c198c7c54e95e5b6dbf26144f
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kubus/Kubus.unity
+    guid: 164c82be5c0653e4fa3e436331f72915
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kubus/ContohKubus.unity
+    guid: 3feade0a197ffe346a5fb767aa738584
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kubus/SoalKubus1.unity
+    guid: 2ed136e98557f90438ddc65b66404e07
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kubus/SoalKubus2.unity
+    guid: 363867e50d6e641499284f6ed9c5a984
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Balok/OpsiBalok.unity
+    guid: 439466e0685e0e2419b1d0a34391736e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Balok/Balok.unity
+    guid: bb0c8eb1c40183b4b898b4a2c4e80167
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Balok/ContohBalok.unity
+    guid: cf03f66bddf1f0a44b153fb0578b959c
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Balok/SoalBalok1.unity
+    guid: 6fc089073e9c32d4bb99ed436f1d5cf7
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Balok/SoalBalok2.unity
+    guid: 9f369ddde3fd3c4468ab39f70c736670
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kerucut/OpsiKerucut.unity
+    guid: ca894925730ad204ebdd6459ba4da0b8
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kerucut/Kerucut.unity
+    guid: b9a22713c2af6fa409fd30af4487d41a
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kerucut/ContohKerucut.unity
+    guid: a7e0264e46c08184aa4678c789e95a6c
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kerucut/SoalKerucut1.unity
+    guid: 65682c5cd4c830746af4c3554465228b
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Kerucut/SoalKerucut2.unity
+    guid: ab0cc01446b53c64e8ab07565953d0bd
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Prisma/OpsiPrisma.unity
+    guid: 2034c33826ee31042ab2cab543f30fec
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Prisma/Prisma.unity
+    guid: bfd1e8a50d1cf1e419897af134006fba
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Prisma/ContohPrisma.unity
+    guid: 62e34d0d0e98482489af18b579ce1601
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Prisma/SoalPrisma1.unity
+    guid: 8bd49d2418f77b5439b1fb8e03852894
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Prisma/SoalPrisma2.unity
+    guid: 2e7188dd116fb7944ac603c45bf17584
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Limas/OpsiLimas.unity
+    guid: ab16fbba70758e14fb361b2dd1a2ac39
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Limas/Limas.unity
+    guid: 0e4cfa2acd5c13846a5a55fcb9990fdc
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Limas/ContohLimas.unity
+    guid: 64a4556958ff4ca4f89a45fa02f44914
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Limas/SoalLimas1.unity
+    guid: 833d13c1345dc614daeac49666b1d5d7
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Limas/SoalLimas2.unity
+    guid: b7f43a2017fd5594fbcf4e76774d7822
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Tabung/OpsiTabung.unity
+    guid: 2e1e49fbf132e7946b1a2ae79a748a73
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Tabung/Tabung.unity
+    guid: 53f60377d8c62e2459f476b9924319b4
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Tabung/ContohTabung.unity
+    guid: 408a14ba60852f04892ec724f9d8f613
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Tabung/SoalTabung1.unity
+    guid: db5ef5161bee50d408480525e2966b05
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Tabung/SoalTabung2.unity
+    guid: 223045c07d69e7747b1d3039b3d7967f
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Bola/OpsiBola.unity
+    guid: 2b5e3a6fec4be1c4fa963e1386527644
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Bola/Bola.unity
+    guid: 52f027e38da70e145920a195320f55dd
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Bola/ContohBola.unity
+    guid: b98296a200454f24abfc6ef46536538e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Bola/SoalBola1.unity
+    guid: b6f6e1b006dacd144960253b1fc2cb6e
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Materi/BangunRuang/Bola/SoalBola2.unity
+    guid: b0535961d6f375b4cbb945e4b3e9be48
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/OpsiPanduan.unity
+    guid: 6323c4e0c14a67b4abc8922d914ab8dd
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan1Game.unity
+    guid: 6a7e846f790a43746b2305ad367dd437
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan2Game.unity
+    guid: 413c6d3b7397cd24eb1b7ab71396b9b0
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan3Game.unity
+    guid: 564b1f4bccee45749940e1efa9bc6e28
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan4Game.unity
+    guid: 09b347177d4297d43a9888702c65016a
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan5Game.unity
+    guid: 561950e1ef78d604c814354cffb3aff4
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/Panduan6Game.unity
+    guid: 024c786aa48f4cf4d9015f16347efd64
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Control/ControlBermain.unity
+    guid: fdc9b0df1111ee84284a2a040b0db569
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/GameScene.unity
+    guid: 7ae0cd92ceda1bf4b9663df3b8d529c2
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Game2Scene.unity
+    guid: 569df03b781287544a437c65d64010eb
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/Back_Game2Scene.unity
+    guid: ac942e5574267bb4f816cf56cf3342b4
+  - enabled: 1
+    path: Assets/Scenes/BACKUP/WinnerMenu.unity
+    guid: af3bb1307cf15da45b4ba0814c24ad35
+  - enabled: 1
+    path: Assets/Scenes/RestartMenu.unity
+    guid: e25b9fc955c03d94cabc4dce552fe08c
+  m_configObjects: {}
